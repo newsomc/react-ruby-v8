@@ -1,4 +1,4 @@
-# Server rendered React components with V8g
+# Server rendered React components with V8
 
 # Example
 
